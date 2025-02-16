@@ -8,5 +8,5 @@
 ## 📫 How to Reach Me
 - Discord: @zansen__
 - Email: zachariahjhansen@gmail.com
-- LinkedIn: [zachariah-hansen](www.linkedin.com/in/zachariah-hansen)
+- LinkedIn: www.linkedin.com/in/zachariah-hansen
 
