@@ -9,6 +9,7 @@
 - Discord: @zansen__
 - Email: zachariahjhansen@gmail.com
 - LinkedIn: [zachariah-hansen](www.linkedin.com/in/zachariah-hansen)
-
+<---
   ## GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ZachariahHansen&show_icons=true&theme=radical)
+--->
