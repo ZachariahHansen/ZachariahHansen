@@ -6,7 +6,7 @@
 - 🎮 I'm looking to collaborate on any kind of fun projects, either in games I play or using technologies I'm experienced in
 
 ## 📫 How to Reach Me
-- Discord: @zansen__
+- Discord: @zansen.dev
 - Email: zachariahjhansen@gmail.com
 - LinkedIn: www.linkedin.com/in/zachariah-hansen
 
